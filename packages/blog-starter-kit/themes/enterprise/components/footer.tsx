@@ -28,47 +28,47 @@ export const Footer = () => {
 					<div className="col-span-1 grid grid-cols-4 gap-5 md:col-span-4 lg:col-span-3">
 						<div className="col-span-full md:col-span-2 lg:col-span-1">
 							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">
-								Stay in touch
+								Kekal berhubung
 							</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
 									<a href="#" className="hover:underline">
-										Contact us
+										Hubungi Kami
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
-										Book a demo
+									<a href="https://www.trafficsecrets.com/?cf_affiliate_id=3305731&affiliate_id=3305731" className="hover:underline">
+										Trafik Web
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
-										Newsletter
+									<a href="http://www.mlmgateway.com/?refcode=77619888" className="hover:underline">
+										Bina Jaringan
 									</a>
 								</li>
 								<li>
-									<a href="#" className="hover:underline">
-										Slack
+									<a href="https://udimi.com/a/x4yef" className="hover:underline">
+										Cari Pelanggan
 									</a>
 								</li>
 							</ul>
 						</div>
 						<div className="col-span-full md:col-span-2 lg:col-span-1">
-							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Resources</p>
+							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Bahan Sumber</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
 									<a href="#" className="hover:underline">
-										Community
+										Komuniti
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Use Cases
+										Kes
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Source Code
+										Kod Sumber
 									</a>
 								</li>
 								<li>
@@ -79,51 +79,51 @@ export const Footer = () => {
 							</ul>
 						</div>
 						<div className="col-span-full md:col-span-2 lg:col-span-1">
-							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Product</p>
+							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Produk</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
 									<a href="#" className="hover:underline">
-										Pricing
+										Harga
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Documentation
+										Dokumentasi
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Integrations
+										Integrasi
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Support
+										Bantuan
 									</a>
 								</li>
 							</ul>
 						</div>
 						<div className="col-span-1">
-							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Other links</p>
+							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Bina Website</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
-									<a href="#" className="hover:underline">
-										Events
+									<a href="https://billing.iwhost.com/aff.php?aff=3840" className="hover:underline">
+										Domain 
+									</a>
+								</li>
+								<li>
+									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=website-design" className="hover:underline">
+										Design
+									</a>
+								</li>
+								<li>
+									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=wordpress-hosting" className="hover:underline">
+										Hosting
 									</a>
 								</li>
 								<li>
 									<a href="#" className="hover:underline">
-										Careers
-									</a>
-								</li>
-								<li>
-									<a href="#" className="hover:underline">
-										Newsroom
-									</a>
-								</li>
-								<li>
-									<a href="#" className="hover:underline">
-										About us
+										Tentang Kami
 									</a>
 								</li>
 							</ul>
@@ -131,14 +131,14 @@ export const Footer = () => {
 					</div>
 					<div className="col-span-2 flex flex-col items-end gap-5 text-right text-slate-600 dark:text-neutral-300 md:text-left">
 						<SocialLinks />
-						<p>&copy; 2023 Company Inc.</p>
+						<p>&copy; 2025 Siakap Emas.</p>
 						<p>
 							<a href="#" className="hover:underline">
-								Privacy Policy
+								Dasar Privasi
 							</a>{' '}
 							·{' '}
 							<a href="#" className="hover:underline">
-								Terms
+								Terma
 							</a>
 						</p>
 					</div>
