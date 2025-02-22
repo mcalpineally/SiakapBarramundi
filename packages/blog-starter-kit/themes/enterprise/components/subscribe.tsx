@@ -9,7 +9,7 @@ export const Subscribe = () => {
 			<Popover.Root>
 				<Popover.Trigger asChild>
 					<Button
-						label="Subscribe"
+						label="Langgan"
 						type="outline"
 						icon={<NewsletterPlusSVG className="w-5 h-5 fill-current" />}
 						className="!bg-white dark:!bg-neutral-950"
@@ -22,7 +22,7 @@ export const Subscribe = () => {
 						sideOffset={5}
 					>
 						<h3 className="mb-2 text-base font-semibold text-center text-primary-600">
-							Subscribe to our newsletter for updates and changelog.
+							Langgan untuk mengikuti perkembangan terkini.
 						</h3>
 						<SubscribeForm />
 					</Popover.Content>
