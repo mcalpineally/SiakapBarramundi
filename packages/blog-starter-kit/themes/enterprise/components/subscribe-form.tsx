@@ -54,17 +54,17 @@ export const SubscribeForm = () => {
 						onClick={subscribe}
 						className="bg-primary-600 dark:bg-primary-600 absolute right-3 top-3 rounded-full px-3 py-2 text-white disabled:cursor-not-allowed disabled:opacity-80"
 					>
-						Subscribe
+						Langgan
 					</button>
 				</div>
 			)}
 			{status === 'PENDING' && (
 				<div className="relative w-full p-2 text-center">
-					<p className="font-bold text-green-600 dark:text-green-500">Almost there!</p>
+					<p className="font-bold text-green-600 dark:text-green-500">Sekejap!</p>
 					<p className="font-medium text-slate-600 dark:text-neutral-300">
-						Check your inbox for a confirmation email and click{' '}
-						<strong>&quot;Confirm and Subscribe&quot;</strong> to complete your subscription. Thanks
-						for joining us!
+						Semak peti surat anda untuk dapatkan emel pengesahan dan klik{' '}
+						<strong>&quot;Sahkan dan Langgan&quot;</strong> bagi melengkapkan langganan anda. Terima kasih kerana
+						menyertai kami.
 					</p>
 				</div>
 			)}
