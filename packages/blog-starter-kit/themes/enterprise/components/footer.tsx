@@ -37,17 +37,17 @@ export const Footer = () => {
 									</a>
 								</li>
 								<li>
-									<a href="https://www.trafficsecrets.com/?cf_affiliate_id=3305731&affiliate_id=3305731" className="hover:underline">
+									<a href="https://www.trafficsecrets.com/?cf_affiliate_id=3305731&affiliate_id=3305731" className="hover:underline" target="_blank">
 										Trafik Web
 									</a>
 								</li>
 								<li>
-									<a href="http://www.mlmgateway.com/?refcode=77619888" className="hover:underline">
+									<a href="http://www.mlmgateway.com/?refcode=77619888" className="hover:underline" target="_blank">
 										Bina Jaringan
 									</a>
 								</li>
 								<li>
-									<a href="https://udimi.com/a/x4yef" className="hover:underline">
+									<a href="https://udimi.com/a/x4yef" className="hover:underline" target="_blank">
 										Cari Pelanggan
 									</a>
 								</li>
@@ -107,17 +107,17 @@ export const Footer = () => {
 							<p className="mb-2 font-semibold text-slate-600 dark:text-neutral-200">Bina Website</p>
 							<ul className="flex flex-col gap-1 text-slate-700 dark:text-neutral-300">
 								<li>
-									<a href="https://billing.iwhost.com/aff.php?aff=3840" className="hover:underline">
+									<a href="https://billing.iwhost.com/aff.php?aff=3840" className="hover:underline" target="_blank">
 										Domain 
 									</a>
 								</li>
 								<li>
-									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=website-design" className="hover:underline">
+									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=website-design" className="hover:underline" target="_blank">
 										Design
 									</a>
 								</li>
 								<li>
-									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=wordpress-hosting" className="hover:underline">
+									<a href="https://billing.exabytes.my/mypanel/aff.php?aff=8101622&page=wordpress-hosting" className="hover:underline" target="_blank">
 										Hosting
 									</a>
 								</li>
